@@ -145,6 +145,9 @@ python3 ~/knowledge-base/scripts/kb-lint.py --root ~/knowledge-base
 **换电脑或者想备份?**
 整个 `~/knowledge-base` 文件夹拷走就行。想要版本记录,可以在里面 `git init`。
 
+**在服务器或容器里用 root 跑 Claude Code,`--dangerously-skip-permissions` 被拒绝?**
+这是 Claude Code 对 root 的安全限制。要么换一个普通用户跑,要么在命令前加 `IS_SANDBOX=1`(只建议在你自己的一次性沙盒里这么做)。
+
 ## License
 
 MIT · 作者:Lynn
