@@ -1,0 +1,11 @@
+{
+  "name": "second-brain-kb",
+  "description": "Personal knowledge base skill: save links, transcribe videos verbatim, keep raw sources untouched, and compile cited wiki pages",
+  "version": "1.0.0",
+  "author": { "name": "Lynn" },
+  "homepage": "https://github.com/YOUR_GITHUB_USER/second-brain-kb",
+  "repository": "https://github.com/YOUR_GITHUB_USER/second-brain-kb",
+  "license": "MIT",
+  "keywords": ["knowledge-base", "second-brain", "notes", "transcription", "wiki"],
+  "skills": "./"
+}

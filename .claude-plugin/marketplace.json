@@ -1,0 +1,14 @@
+{
+  "name": "second-brain-kb",
+  "owner": { "name": "Lynn" },
+  "metadata": { "description": "Second-brain knowledge base skill for AI agents" },
+  "plugins": [
+    {
+      "name": "second-brain-kb",
+      "description": "Ingest links and videos into a raw/wiki knowledge base with mandatory source citations",
+      "source": "./",
+      "category": "productivity",
+      "tags": ["knowledge-base", "second-brain", "notes", "transcription"]
+    }
+  ]
+}
