@@ -1,7 +1,7 @@
 ---
 name: second-brain-kb
 license: MIT
-github: https://github.com/YOUR_GITHUB_USER/second-brain-kb
+github: https://github.com/LynnJiaxinLing/second-brain-kb
 description:
   给 AI 搭一个「第二大脑」知识库:你只管收藏和发链接,读、转录、原样存档、整理成带来源的结论都由 AI 完成。
   触发场景:用户说「建知识库」「初始化知识库」「落库」「存进知识库」「扔进 KB」,发来小红书/推特/YouTube/B站/网页/PDF 链接要求收录,
