@@ -3,8 +3,8 @@
   "description": "Personal knowledge base skill: save links, transcribe videos verbatim, keep raw sources untouched, and compile cited wiki pages",
   "version": "1.0.0",
   "author": { "name": "Lynn" },
-  "homepage": "https://github.com/LynnJiaxinLing/second-brain-kb",
-  "repository": "https://github.com/LynnJiaxinLing/second-brain-kb",
+  "homepage": "https://github.com/hey-lynn/second-brain-kb",
+  "repository": "https://github.com/hey-lynn/second-brain-kb",
   "license": "MIT",
   "keywords": ["knowledge-base", "second-brain", "notes", "transcription", "wiki"],
   "skills": "./"

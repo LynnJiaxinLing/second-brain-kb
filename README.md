@@ -23,20 +23,20 @@
 对你的 AI 说:
 
 ```
-帮我安装这个 skill:https://github.com/LynnJiaxinLing/second-brain-kb
+帮我安装这个 skill:https://github.com/hey-lynn/second-brain-kb
 ```
 
 **方式二:Plugin 安装(Claude Code)**
 
 ```bash
-claude plugin marketplace add https://github.com/LynnJiaxinLing/second-brain-kb
+claude plugin marketplace add https://github.com/hey-lynn/second-brain-kb
 claude plugin install second-brain-kb@second-brain-kb --scope user
 ```
 
 **方式三:手动**
 
 ```bash
-git clone https://github.com/LynnJiaxinLing/second-brain-kb ~/.claude/skills/second-brain-kb
+git clone https://github.com/hey-lynn/second-brain-kb ~/.claude/skills/second-brain-kb
 ```
 
 ## 装完第一句话说什么
